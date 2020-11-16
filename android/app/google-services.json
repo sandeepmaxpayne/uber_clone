@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822818727372",
+    "firebase_url": "https://uber-taxi-clone.firebaseio.com",
+    "project_id": "uber-taxi-clone",
+    "storage_bucket": "uber-taxi-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822818727372:android:ff17d968930dad13f12969",
+        "android_client_info": {
+          "package_name": "com.appruloft.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822818727372-ppvllkgb090qk5hd73l8jumb5js7i3qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37XXBOAtJ6rkL6JpvHWp5NP2H_9gRNZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822818727372-ppvllkgb090qk5hd73l8jumb5js7i3qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
